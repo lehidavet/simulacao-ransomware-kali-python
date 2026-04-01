@@ -77,13 +77,13 @@ simulacao-ransomware-kali-python/
 ### **📋 Lista inicial de arquivos:**
 ![Lista inicial](./images/ransomware-ls.png)
 
-### **✏️ Editando teste.txt no nano:**
-![Nano encrypt](./images/ransomware-nano-encrypt.png)
-
-### **🔒 Após criptografia:**
+### **🔒 Sequência final de códigos:**
 ![Lista final](./images/ransomware-ls-final.png)
 
-### **🔓 Descriptografando:**
+### **✏️ Arquivo encriptado:**
+![Nano encrypt](./images/ransomware-nano-encrypt.png)
+
+### **🔓 Arquivo Descriptografado:**
 ![Nano decrypt](./images/ransomware-nano-decrypt.png)
 
 ---
