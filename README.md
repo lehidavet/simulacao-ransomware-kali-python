@@ -23,7 +23,7 @@ Este projeto simula o funcionamento básico de um **ransomware** usando **Python
 
 ```mermaid
 graph TB
-    A[Python 3.x] --> B[pyaes AES-CTR]
+    A[Python 3.13.7] --> B[pyaes AES-CTR]
     B --> C[Kali Linux]
     C --> D[VirtualBox Home Lab]
     A --> E[Git/GitHub]
