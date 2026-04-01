@@ -197,7 +197,7 @@ nano teste.txt
 
 **Lehi Davet**  
 **🔄 Transição de Carreira**: Eng. Mecânico → Cybersecurity  
-**📍 Água Verde, Paraná, Brasil**  
+**📍 Brasil**  
 **💼 LinkedIn**: [lehidavet](https://linkedin.com/in/lehidavet)  
 **🐙 GitHub**: [lehidavet](https://github.com/lehidavet)
 
