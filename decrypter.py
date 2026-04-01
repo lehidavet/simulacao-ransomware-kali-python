@@ -22,4 +22,4 @@ new_file.write(decrypt_data)
 new_file.close()
 
 ## mensagem de descriptografia
-print("Arquivo descriptografado com sucesso!")
+print("✅ Arquivo descriptografado com sucesso! 🚀")

