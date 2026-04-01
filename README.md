@@ -88,13 +88,6 @@ simulacao-ransomware-kali-python/
 
 ---
 
-## 💻 **Códigos Corrigidos e Melhorados**
-
-✅ **Correções feitas:**
-- `import os` faltante
-- Comentários em **português**
-- Feedback no terminal
-
 ### **🔐 encrypter.py**
 ```python
 import os
